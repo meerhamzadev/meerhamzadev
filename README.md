@@ -40,10 +40,9 @@
 
 ## <br>
 
+<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
 
-<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MeerHamza1421&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
-
-<img align="center" justify="center" alt="Meer Hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeerHamza1421&theme=tokyonight&bg_color=0d1117&show_icons=true&hide_border=true" />
+<img align="center" justify="center" alt="Meer Hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
 
 ## <br>
 
