@@ -1,4 +1,4 @@
-# <div align="center">HI THERE, I'M Meer Hamza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
+# <div align="center">Yo, Its Meer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
 
 <br>
