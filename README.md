@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning web technologies! 😎
 - 📫 How to reach me: hamzababar37@gmail.com 📧
 - ⚡ Frontend Developer at [ArcCode][ArcCode] 🚀
--    Checkout my portfolio for more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
+-    Checkout for more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
 
 <br>
 
