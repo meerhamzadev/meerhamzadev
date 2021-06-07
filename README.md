@@ -3,43 +3,68 @@
 
 <br>
 
-### ABOUT ME
-
-- 🔭 I’m currently working on My Skills 😄
-- 🌱 I’m currently learning web technologies! 😎
-- 📫 How to reach me: hamzababar37@gmail.com 📧
-- ⚡ Frontend Developer at [ArcCode][ArcCode] 🚀
--    Checkout for more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
+<h2><i>🙋‍♂️ ABOUT ME<i/></h2>
+  
+-  I’m currently working on My Skills 😄
+-  I’m currently learning web technologies! 😎
+-  Frontend Developer at [ArcCode][ArcCode] 🚀
+-  Checkout for more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
 
 <br>
 
 
-## LANGUAGES AND STATS
+<h2><i>💻 Tech Stack</i></h2>
 
+<table width="100">
+<tr>
+  <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="70">
+    </td>
+     <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="90">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+</tr>
+<tr>
+   <td align='center'>
+        <img alt="Firebase" width = "60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+  </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
+    </td>
+    <td align='center'>
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+  <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" width="60">
+    </td>
+</tr>
+<tr>
+ <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+</table>
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" />
-
-<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
-<img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-
-## <br>
-
+<br />
+<h2><i>⚡ Github Analytics</i></h2>
 <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
 
 <img align="center" justify="center" alt="Meer Hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
