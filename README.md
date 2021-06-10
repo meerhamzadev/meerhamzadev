@@ -1,15 +1,36 @@
-# <div align="center">Yo, Its Meer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
+<img src="https://entropy.co.za/assets/images/hello-terminal-cursor.gif" width = "1000" height="300"/>
 
+# <div align="center">Its Meer Hamza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
+
+<br>
+
+<p align="center">
+<br>
+<a href="https://twitter.com/MeerHamza1421"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://linkedin.com/in/meerhamza1421/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://dev.to/meerhamza1421/"><img alt="Website" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>&nbsp;
+<a href="https://www.instagram.com/meer.hamza_1421/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="mailto:hamzababar37@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub."><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
 <br>
 
 <h2><i>🙋‍♂️ ABOUT ME<i/></h2>
-  
--  I’m currently working on My Skills 😄
--  I’m currently learning web technologies! 😎
--  Frontend Developer at [ArcCode][ArcCode] 🚀
--  Checkout for more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
+  <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
+  -  Currently working on My Skills 😄
+  -  Currently learning web technologies! 😎
+  -  Interested in 
+  
+       * FullStack Web Development
+       * Blockchain
+       * System design
+       * DevOps
+  
+  -  Frontend Developer at [ArcCode][ArcCode] 🚀
+  -  For more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
+
+<br>
 <br>
 
 
@@ -38,7 +59,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = "70">
     </td>
    <td align='center'>
-        <img alt="Firebase" width = "90" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+        <img alt="Firebase" width = "100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
   </td>
     <td align='center'>
         <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
@@ -64,33 +85,11 @@
 </table>
 
 <br />
-<h2><i>⚡ Github Analytics</i></h2>
+<h2><i>⚡ Github Stats</i></h2>
 <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
 
 <img align="center" justify="center" alt="Meer Hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
 
 ## <br>
 
-### CONNECT WITH ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="25px" />
-
-[<img align="left" alt="MeerHamza1421 @ Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=1b6ee9&label=hamzababar37@gmail.com&style=for-the-badge)](mailto:hamzababar37@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-
-[<img align="left" alt="MeerHamza1421 @ LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=1b6ee9&label=Connect%20%40MeerHamza1421&style=for-the-badge)](https://www.linkedin.com/in/meerhamza1421/)
-
-[<img align="left" alt="MeerHamza1421 @ github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
-![GitHub followers](https://img.shields.io/github/followers/MeerHamza1421?color=1b6ee9&label=Follow%20%40MeerHamza1421&style=for-the-badge)
-
-[<img align="left" alt="MeerHamza1421 @ Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]
-[![Twitter Follow](https://img.shields.io/twitter/follow/MeerHamza1421?color=1b6ee9&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMeerHamza1421&screen_name=MeerHamza1421)
-
-[<img align="left" alt="MeerHamza1421 @ Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=1b6ee9&label=Follow%20%40MeerHamza1421&style=for-the-badge)](https://www.instagram.com/meer.hamza_1421/)
-
-[Gmail]: (mailto:hamzababar37@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[linkedin]: https://linkedin.com/in/meerhamza1421/
-[Github]: https://github.com/MeerHamza1421
-[twitter]: https://twitter.com/MeerHamza1421
-[instagram]: https://www.instagram.com/meer.hamza_1421/
 [ArcCode]: https://github.com/ArcCodeTeam
