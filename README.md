@@ -38,7 +38,7 @@
         <img alt="Firebase" width = "60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
   </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width = "150">
     </td>
     <td align='center'>
         <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
