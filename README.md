@@ -25,7 +25,7 @@
        * FullStack Web Development
        * Blockchain
        * System design
-       * DevOps
+       * Open Source
   
   -  Frontend Developer at [ArcCode][ArcCode] 🚀
   -  For more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
