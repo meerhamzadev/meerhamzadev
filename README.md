@@ -18,12 +18,11 @@
 <h2><i>🙋‍♂️ ABOUT ME<i/></h2>
   <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
-  -  Currently working on My Skills 😄
-  -  Currently learning web technologies! 😎
+  -  I'm Currently working on My Skills 😄
+  -  I'm Currently learning web technologies! 😎
   -  Interested in 
   
-       * FullStack Web Development
-       * Blockchain
+       * FullStack Development
        * System design
        * Open Source
   
@@ -74,12 +73,6 @@
 <tr>
  <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
 </tr>
 </table>
