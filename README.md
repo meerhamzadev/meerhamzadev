@@ -1,4 +1,4 @@
-<img src="https://entropy.co.za/assets/images/hello-terminal-cursor.gif" width = "1000" height="300"/>
+<img src="https://entropy.co.za/assets/images/hello-terminal-cursor.gif" width = "1000" height="230"/>
 
 # <div align="center">Its Meer Hamza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
