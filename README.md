@@ -1,6 +1,4 @@
-<img src="https://entropy.co.za/assets/images/hello-terminal-cursor.gif" width = "1000" height="230"/>
-
-# <div align="center">Its Meer Hamza <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
+## <div align="center">Hello World,<a href = "https://meerhamza1421-me.web.app/"> Meer Hamza </a> here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
 <br>
 
@@ -15,7 +13,7 @@
 
 <br>
 
-<h2><i>🙋‍♂️ ABOUT ME<i/></h2>
+<h3><i>🙋‍♂️ ABOUT ME<i/></h3>
   <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
   -  I'm Currently working on My Skills 😄
@@ -25,15 +23,11 @@
        * FullStack Development
        * System design
        * Open Source
-  
-  -  Frontend Developer at [ArcCode][ArcCode] 🚀
-  -  For more 👉 [https://meerhamza1421-me.web.app/](https://meerhamza1421-me.web.app/)
-
 <br>
 <br>
 
 
-<h2><i>💻 Tech Stack</i></h2>
+<h3><i>💻 Tech Stack</i></h3>
 
 <table width="100">
 <tr>
@@ -78,7 +72,7 @@
 </table>
 
 <br />
-<h2><i>⚡ Github Stats</i></h2>
+<h3><i>⚡ Github Stats</i></h3>
 <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
 
 <img align="center" justify="center" alt="Meer Hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
