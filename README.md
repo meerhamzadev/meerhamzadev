@@ -16,8 +16,8 @@
 <h3><i>🙋‍♂️ ABOUT ME<i/></h3>
   <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
-  -  I'm Currently working on My Skills 😄
-  -  I'm Currently learning web technologies! 😎
+  -  I'm Currently working on My Skills
+  -  I'm Currently learning web technologies!
   -  Interested in 
   
        * FullStack Development
