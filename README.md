@@ -1,7 +1,5 @@
 ## <div align="center">Hello World,<a href = "https://meerhamza1421-me.web.app/"> Meer Hamza </a> here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
-<br>
-
 <p align="center">
 <br>
 <a href="https://twitter.com/MeerHamza1421"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
@@ -11,72 +9,28 @@
 <a href="mailto:hamzababar37@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub."><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-<br>
+<h3><i>🙋‍♂️ABOUT ME<i/></h3>
+  <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h3><i>🙋‍♂️ ABOUT ME<i/></h3>
-  <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+  -  Junior Year CS Udergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/) 👨‍🎓.
+  -  Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀.
+  -  Alpha [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰.
+  -  Full Stack Developer ⚡.
+  -  Former FrontEnd Developer at [ArcCode](https://github.com/ArcCodeTeam/) 🎨.
+  -  Contributed code to various open-source organizations like [sButtons](https://github.com/sButtons), [life-sync](https://github.com/life-sync/)💥.
+  -  Interested in web, open-source and high level system design 🛠️.
+  -  Write Articles on [Dev Post](https://dev.to/meerhamza1421) ✍️.
 
-  -  I'm Currently working on My Skills
-  -  I'm Currently learning web technologies!
-  -  Interested in 
-  
-       * FullStack Development
-       * System design
-       * Open Source
-<br>
-<br>
+<h3><i>⚡Tools & Tech</i></h3>
 
-
-<h3><i>💻 Tech Stack</i></h3>
-
-<table width="100">
-<tr>
-  <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="70">
-    </td>
-     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="90">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = "70">
-    </td>
-   <td align='center'>
-        <img alt="Firebase" width = "100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-  </td>
-    <td align='center'>
-        <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-  <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" width="60">
-    </td>
-</tr>
-<tr>
- <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-</tr>
-</table>
-
-<br />
-<h3><i>⚡ Github Stats</i></h3>
-<img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
-
-<img align="center" justify="center" alt="Meer Hamza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeerHamza1421&theme=radical&bg_color=141321&show_icons=true&hide_border=false" />
-
-## <br>
-
-[ArcCode]: https://github.com/ArcCodeTeam
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421) 
+[![Sass](https://img.shields.io/badge/-SCSS-aliceblue?style=flat&logo=sass&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421) 
+[![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat&logo=firebase&logoColor=yellow&logoText=blacklink=https://github.com/meerhamza1421)](https://github.com/meerhamza1421) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/meerhamza1421)](https://gitlab.com/meerhamza1421)
+[![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c++&link=https://github.com/meerhamza1421)](https://gitlab.com/meerhamza1421)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/meerhamza1421)](https://github.com/meerhamza1421)
