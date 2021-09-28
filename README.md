@@ -14,10 +14,10 @@
 
   -  Jr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
   -  Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀
-  -  Alpha [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
+  -  Beta [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
   -  Full Stack Developer ⚡
   -  Former FrontEnd Developer at [ArcCode](https://github.com/ArcCodeTeam/) 🎨
-  -  Contributed code to various open-source orgs like [sButtons](https://github.com/sButtons),[life-sync](https://github.com/life-sync/)💥
+  -  Contributed code to various open-source orgs like [sButtons](https://github.com/sButtons), [life-sync](https://github.com/life-sync/)💥
   -  Interested in web, open-source and high level system design 🛠️
   -  Write Articles on [Dev Post](https://dev.to/meerhamza1421) ✍️
 
