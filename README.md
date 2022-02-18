@@ -20,6 +20,7 @@
   -  Former FrontEnd Developer at [ArcCode](https://github.com/ArcCodeTeam/) 🎨
   -  Contributed code to various open-source orgs like [greenpress](https://github.com/greenpress), [space-voyager](https://github.com/space-voyager-21)💥
   -  Interested in web, open-source and high level system design 🛠️
+  -  Speaker with various talks delivered in different communities and universities
   -  Write Articles on [Dev Post](https://dev.to/meerhamzadev) ✍️
 
 <h3><i>⚡Tools & Tech</i></h3>
