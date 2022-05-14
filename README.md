@@ -16,7 +16,7 @@
   -  Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀
   -  Beta [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
   -  Full Stack Developer ⚡
-  -  Former FrontEnd Developer at [Accrue Inc](https://github.com/accrueInc/) ⚙
+  -  Former FrontEnd Developer at [MetaStic](https://metastic.io/) ⚙
   -  Former FrontEnd Developer at [ArcCode](https://github.com/ArcCodeTeam/) 🎨
   -  Contributed code to various open-source orgs like [greenpress](https://github.com/greenpress), [space-voyager](https://github.com/space-voyager-21)💥
   -  Interested in web, open-source and high level system design 🛠️
