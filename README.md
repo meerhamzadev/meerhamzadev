@@ -1,4 +1,4 @@
-## <div align="center">Hello World,<a href = "https://meerhamzadev.web.app/"> Meer Hamza </a> here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
+## <div align="center">Hello World,<a href = "https://meerhamzadev.web.app/"> Meer Hamza </a> here <img width="4%" height="4%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
 <p align="center">
 <br>
