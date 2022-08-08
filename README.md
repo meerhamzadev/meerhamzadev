@@ -14,8 +14,9 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
   -  Jr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
-  -  Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀
+  -  Former Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀
   -  Beta [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
+  -  Former Frontend R&D Intern at NonAcademy 🔍 
   -  Former FrontEnd Intern at [MetaStic](https://metastic.io/) ⚙
   -  Former FrontEnd Intern at [ArcCode](https://github.com/ArcCodeTeam/) 🎨
   -  Contributed code to various open-source orgs like [greenpress](https://github.com/greenpress), [space-voyager](https://github.com/space-voyager-21)💥
