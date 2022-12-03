@@ -16,11 +16,12 @@
   -  Sr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
   -  Former Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀
   -  Beta [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
+  -  FullStack Engineer ⚡
   -  Former Frontend R&D Intern at NonAcademy 🔍 
   -  Former FrontEnd Intern at [MetaStic](https://metastic.io/) ⚙
   -  Former FrontEnd Intern at [ArcCode](https://github.com/ArcCodeTeam/) 🎨
   -  Contributed code to various open-source orgs like [greenpress](https://github.com/greenpress), [space-voyager](https://github.com/space-voyager-21)💥
-  -  Interested in web, open-source and high level system design 🛠️
+  -  Interested in web, open-source and high & low level design 🛠️
   -  Speaker with various talks delivered in different communities and universities
   -  Write Articles on [Dev Post](https://dev.to/meerhamzadev) ✍️
 
@@ -32,10 +33,11 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0f0f0f?style=flat&logo=tailwindcss&logoColor=36b7f0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=yellow) 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![npm](https://img.shields.io/badge/-npm-c63332?style=flat&logo=npm&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node%20JS-20211e?style=flat&logo=node.js&logoColor=2f7e2e) 
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat&logo=firebase&logoColor=yellow&logoText=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000031?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=green)
+![Docker](https://img.shields.io/badge/-docker-18186d?style=flat&logo=docker)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
