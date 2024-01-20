@@ -13,31 +13,25 @@
 <!--   <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-  -  Sr. Year CS Undergrad at the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
+  -  Software Engineer at [Cogent Labs](https://github.com/cogent-Labs-Inc/) 👨🏻‍💻
+  -  Backend Engineer ⚡
+  -  CS Graduate from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)🎓
   -  Former Lead at [Google Developer Student Clubs](https://developers.google.com/community/dsc) UET Chapter🚀
-  -  Beta [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
-  -  FullStack Engineer ⚡
-  -  Former Frontend R&D Intern at NonAcademy 🔍 
-  -  Former FrontEnd Intern at [MetaStic](https://metastic.io/) ⚙
-  -  Former FrontEnd Intern at [ArcCode](https://github.com/ArcCodeTeam/) 🎨
-  -  Contributed code to various open-source orgs like [greenpress](https://github.com/greenpress), [space-voyager](https://github.com/space-voyager-21)💥
-  -  Interested in web, open-source and high & low level design 🛠️
-  -  Speaker with various talks delivered in different communities and universities
+  -  Former [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com) 🔰
+  -  Former Frontend R&D Intern at NonAcademy 🔍
+  -  Interested in Backend Engineering, Database Engineering, and Software Design 🛠️
+  -  Speaker with various talks delivered in different communities.
   -  Write Articles on [Dev Post](https://dev.to/meerhamzadev) ✍️
 
 <h3><i>⚡Tools & Tech</i></h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Sass](https://img.shields.io/badge/-SCSS-aliceblue?style=flat&logo=sass)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0f0f0f?style=flat&logo=tailwindcss&logoColor=36b7f0)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=yellow) 
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/-Node%20JS-20211e?style=flat&logo=node.js&logoColor=2f7e2e) 
-![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat&logo=firebase&logoColor=yellow&logoText=black)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000031?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=green)
-![Docker](https://img.shields.io/badge/-docker-18186d?style=flat&logo=docker)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Python](https://img.shields.io/badge/-PYTHON-FFDE57?style=plastic&logo=python)
+![DJANGO](https://img.shields.io/badge/DJANGO-092e20?style=plastic&logo=django)
+![DJANGO REST FRAMEWORK](https://img.shields.io/badge/DJANGO%20REST%20FRAMEWORK-960018?style=plastic&logo=djangorestframework)
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=plastic&logo=mysql&logoColor=00758F)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-000031?style=plastic&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=plastic&logo=mongodb&logoColor=green)
+![Docker](https://img.shields.io/badge/-docker-18186d?style=plastic&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-007FFF?style=plastic&logo=microsoft%20azure)
+![C++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
